@@ -6,6 +6,10 @@ The "Media Amator - Online Store" project is an e-commerce application that allo
 The project's goal is to create a simple and intuitive interface for effective product browsing and easy addition to the shopping cart. 
 This store can handle various types of media, such as books, movies, music, video games, etc.
 
+![Alt Text](Screenshot 2023-12-31 103853.png)
+
+
+
 ## Features
 
 - **Product Browsing:** Users can browse available products in the store, sort them by category, and use the search functionality.
