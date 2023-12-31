@@ -25,7 +25,7 @@ This store can handle various types of media, such as books, movies, music, vide
  
  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/CSS) **CSS:** Styling and layout of elements.
  
-  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**JavaScript:** User interaction programming and dynamic data loading.
+  [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="12">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) **JavaScript:** User interaction programming and dynamic data loading.
 
 
 
